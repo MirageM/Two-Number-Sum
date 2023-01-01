@@ -1,3 +1,5 @@
+#Two Number Sum
+#Time Complexity O(nlogn) | Space Complexity O(1)
 def twoNumberSum(array, targetSum):
     array.sort()
     left = 0
